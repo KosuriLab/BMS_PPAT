@@ -13,6 +13,9 @@ For updated versions of this code please check [https://github.com/KosuriLab](ht
 
 #### Data input
 
+Download the PPAT dataset from: 
+[https://doi.org/10.6084/m9.figshare.5990896.v1](https://doi.org/10.6084/m9.figshare.5990896.v1)
+
 PPATdata.RData contains all data necessary for the analysis. Here is a brief descirption of each dataframe:
 
 | Variable  |  Description |
