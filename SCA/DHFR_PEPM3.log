@@ -1,0 +1,10 @@
+DHFR Calculations:
+Loaded alignment of 682 sequences, 432 positions.
+Checking alignment for non-standard amino acids
+Aligment size after removing sequences with non-standard amino acids: 678
+Trimming alignment for highly gapped positions (80% or more).
+Alignment size post-trimming: 192 positions
+Finding reference sequence using global MSAsearch...
+Trying MSASearch with ggsearch
+Trying MSASearch with EMBOSS
+Trying MSASearch with BioPython

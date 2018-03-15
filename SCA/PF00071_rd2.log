@@ -1,0 +1,14 @@
+G-protein calculations:
+Loaded alignment of 21133 sequences, 1599 positions.
+Checking alignment for non-standard amino acids
+Aligment size after removing sequences with non-standard amino acids: 20987
+Trimming alignment for highly gapped positions (80% or more).
+Alignment size post-trimming: 170 positions
+Finding reference sequence using species-based best match..
+Trying MSASearch with ggsearch
+Trying MSASearch with EMBOSS
+Trying MSASearch with BioPython
+Cant find the reference sequence using species-based best_match! Using global MSAsearch...
+Trying MSASearch with ggsearch
+Trying MSASearch with EMBOSS
+Trying MSASearch with BioPython

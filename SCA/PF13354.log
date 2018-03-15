@@ -1,0 +1,14 @@
+Beta-lactamase Calculations:
+Loaded alignment of 5244 sequences, 1128 positions.
+Checking alignment for non-standard amino acids
+Aligment size after removing sequences with non-standard amino acids: 5220
+Trimming alignment for highly gapped positions (80% or more).
+Alignment size post-trimming: 218 positions
+Finding reference sequence using species-based best match..
+Trying MSASearch with ggsearch
+Trying MSASearch with EMBOSS
+Trying MSASearch with BioPython
+Cant find the reference sequence using species-based best_match! Using global MSAsearch...
+Trying MSASearch with ggsearch
+Trying MSASearch with EMBOSS
+Trying MSASearch with BioPython
